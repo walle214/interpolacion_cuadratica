@@ -4,8 +4,8 @@ import MainContainer from './MainContainer';
 function App() {
   return (
     <div>
-      <NavBar/>
-      <MainContainer/>
+      <NavBar />
+      <MainContainer />
     </div>
   );
 }
